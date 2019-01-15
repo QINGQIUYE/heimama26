@@ -1,5 +1,19 @@
 html,body{
-height: 100%;
-margin: 0;
-padding: 0;
-}
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  /* 通用的颜色类 */
+  .bg-purple-dark {
+    background: #99a9bf;
+  }
+  .bg-purple {
+    background: #d3dce6;
+    height: 60px;
+  }
+  .el-header {
+    padding: 0;
+  }
+  .el-submenu__title{
+    padding: 0 70px;
+  }
