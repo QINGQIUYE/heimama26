@@ -4,7 +4,7 @@
       <el-header>
         <el-row>
           <el-col :span="4">
-            <div class="grid-content bg-purple">
+            <div class="grid-content ">
               <img src="../assets/logo.png" alt>
             </div>
           </el-col>
@@ -122,6 +122,9 @@ export default {
     .el-col-2 {
       text-align: right;
     }
+      .el-col-24{
+        
+      } 
   }
 
   .el-aside {
@@ -129,6 +132,7 @@ export default {
     color: #333;
     text-align: center;
     line-height: 200px;
+    
   }
 
   .el-main {
@@ -136,6 +140,7 @@ export default {
     color: #333;
     // text-align: center;
   }
+  
  
 }
  

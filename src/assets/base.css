@@ -9,11 +9,10 @@ html,body{
   }
   .bg-purple {
     background: #d3dce6;
-    height: 60px;
   }
-  .el-header {
+  /* .el-header {
     padding: 0;
-  }
+  } */
   .el-submenu__title{
     padding: 0 70px;
   }
